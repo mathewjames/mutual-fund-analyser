@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# https://stackoverflow.com/a/9865189
-# https://askubuntu.com/a/716396
 
 from . import mutual_fund as mf
 from .models import Funds
